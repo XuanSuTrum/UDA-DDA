@@ -11,29 +11,13 @@ To install requirements:
 pip install -r requirements.txt
 ```
 
-## Training
+## Running the Code
 
 To train the model(s) in the paper, run this command:
 
 ```train
-python train.py --input-data <path_to_data> --alpha 10 --beta 20
+python main.py --input-data <path_to_data> --alpha 10 --beta 20
 ```
-
-
-## Evaluation
-
-To evaluate my model on ImageNet, run:
-
-```eval
-python eval.py --model-file mymodel.pth --benchmark imagenet
-```
-
-
-## Pre-trained Models
-
-You can download pretrained models here:
-
-- [My awesome model](https://drive.google.com/mymodel.pth) trained on ImageNet using parameters x,y,z. 
 
 ## Results
 
