@@ -29,8 +29,6 @@ python main.py
 
 Our model achieves the following performance on :
 
-### [Image Classification on ImageNet](https://paperswithcode.com/sota/image-classification-on-imagenet)
-
 | Dataset         | Accuracy  | STD |
 | ------------------ |---------------- | -------------- |
 |  SEED  |     87.27       |     07.55         |
