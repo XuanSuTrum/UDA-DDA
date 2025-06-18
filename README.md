@@ -1,4 +1,4 @@
-# SDA-DDA: Semi-supervised Domain Adaptation with Dynamic Distribution Alignment Network For Emotion Recognition Using EEG Signals
+# UDA-DDA: Unsupervised Domain Adaptation with Dynamic Distribution Alignment Network For Emotion Recognition Using EEG Signals
 
 This repository is the official implementation of My Paper Title. 
 
